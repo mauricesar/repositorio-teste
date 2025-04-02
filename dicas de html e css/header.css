@@ -1,0 +1,15 @@
+header {
+    background-color: var(--cor-primaria);
+    color: white;
+    text-align: center;
+    padding: var(--espacamento-padrao);
+}
+
+h1 {
+    font-family: var(--fonte-principal);
+    margin-bottom: 8px;
+}
+
+p {
+    font-size: 18px;
+}

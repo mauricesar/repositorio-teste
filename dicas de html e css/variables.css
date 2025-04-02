@@ -1,0 +1,9 @@
+:root {
+    --cor-primaria: #3498db;
+    --cor-secundaria: #2ecc71;
+    --cor-texto: #333;
+    --cor-botao: #e74c3c;
+    --cor-botao-hover: #c0392b;
+    --fonte-principal: 'Arial', sans-serif;
+    --espacamento-padrao: 16px;
+}
